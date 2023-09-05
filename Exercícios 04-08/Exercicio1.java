@@ -13,5 +13,6 @@ public class Exercicio1 {
         novoSalario = salario + (salario * 0.25);
         
         System.out.println("O novo salário do funcionário é: " + novoSalario);
+        input.close();
     }
 }

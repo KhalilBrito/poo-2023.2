@@ -26,6 +26,7 @@ public class Exercicio2 {
         System.out.println("O valor de cada parcela, no parcelamento de 3× sem juros é: " + valorParcela);
         System.out.println("A comissão do vendedor, no caso da venda ser a vista (5% sobre o valor com desconto) é: " + comissaoVista);
         System.out.println("A comissão do vendedor, no caso da venda ser parcelada (5% sobre o valor total) é: " + comissaoParcelada);
+        input.close();
 
     }
 }

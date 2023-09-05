@@ -37,5 +37,6 @@ public class Exercicio1 {
         //c)
         System.out.printf("Quantas vezes o número de referência aparece no vetor: %d", numeroIgual);
 
+        input.close();
     }
 }

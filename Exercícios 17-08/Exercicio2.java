@@ -21,5 +21,6 @@ public class Exercicio2 {
         } else {
             System.out.println("Não pode se aposentar");
         }
+        input.close();
     }
 }

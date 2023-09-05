@@ -24,6 +24,6 @@ public class Exercicio3 {
         System.out.println("O primeiro ganhador receberá: " + primeiro);
         System.out.println("O segundo ganhador receberá: " + segundo);
         System.out.println("O terceiro ganhador receberá: " + terceiro);
-        
+        input.close();
     }
 }

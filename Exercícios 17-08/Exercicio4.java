@@ -24,5 +24,6 @@ public class Exercicio4 {
 
         System.out.println("Soma das idades: " + somaIdade);
         System.out.println("Média das idades: " + (somaIdade / qtdPessoas));
+        input.close();
     }
 }
